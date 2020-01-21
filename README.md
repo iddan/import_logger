@@ -18,7 +18,8 @@ pip install import_logger
 ### Example
 
 For the code:
-```
+`debug.py`
+```python
 import logging
 import import_logger
 
